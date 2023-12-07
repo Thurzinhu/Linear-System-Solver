@@ -88,7 +88,7 @@ lu_instance.decompose()
 
 jacobi_solutions = jacobi_instance.get_solutions()
 seidel_solutions = seidel_instance.get_solutions()
-gauss_solutions = gauss_instance.get_solutions
+gauss_solutions = gauss_instance.get_solutions()
 lu_solutions = lu_instance.get_solutions()
 ~~~
 
@@ -182,6 +182,6 @@ lu_instance.decompose()
 
 jacobi_solutions = jacobi_instance.get_solutions()
 seidel_solutions = seidel_instance.get_solutions()
-gauss_solutions = gauss_instance.get_solutions
+gauss_solutions = gauss_instance.get_solutions()
 lu_solutions = lu_instance.get_solutions()
 ~~~
